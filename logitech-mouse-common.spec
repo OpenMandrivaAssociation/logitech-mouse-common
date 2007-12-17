@@ -10,7 +10,6 @@ Group:		System/Configuration/Hardware
 Source0:	logitechmouse-sysconfig.bz2
 Source1:	logitech-mouse.rules.bz2
 Source2:	logitech-mouse-udev.sh.bz2
-Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:	noarch
 Requires:	lmctl
 
