@@ -1,5 +1,5 @@
 %define	version	0.1
-%define release	%mkrel 5
+%define release	%mkrel 6
 
 Summary:	Shared data files and scripts for Logitech mice
 Name:		logitech-mouse-common
