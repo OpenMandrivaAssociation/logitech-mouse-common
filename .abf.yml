@@ -1,4 +1,4 @@
 sources:
-  "logitech-mouse.rules.bz2:"	1c5ab5ed78015a08f3ab524fea5b6a7420a969d2
-  "logitechmouse-sysconfig.bz2:"	fb51a121fab8d0321fcf95b42d7430a6fe1714a9
-  "logitech-mouse-udev.sh.bz2:"	a34a7333b7380a2c465b62aaec1ec7b673d78a77
+  "logitech-mouse-udev.sh.bz2": a34a7333b7380a2c465b62aaec1ec7b673d78a77
+  "logitech-mouse.rules.bz2": 1c5ab5ed78015a08f3ab524fea5b6a7420a969d2
+  "logitechmouse-sysconfig.bz2": fb51a121fab8d0321fcf95b42d7430a6fe1714a9
